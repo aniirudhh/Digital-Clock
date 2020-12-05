@@ -1,0 +1,19 @@
+body
+{
+    margin: 0; padding: 0;
+    background: #007;
+   
+}
+#clock
+{
+    width: 700px;
+    color: orange;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    
+padding: 10px 0 10px 0;	font-size: 50px;
+    text-align: center;
+    box-shadow: 0 0 20px 20px;
+}
